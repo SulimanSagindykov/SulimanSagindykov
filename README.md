@@ -34,5 +34,4 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/sagindykovsl/"><img width="40px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/115887342/257205009-ec93cfee-9837-446c-b070-4d7f7aca0f78.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/sagindykovsl"><img width="40px" alt="Reddit" title="Reddit" src="https://user-images.githubusercontent.com/115887342/257206789-3bccc55e-9e08-44e3-aa0a-4987c02d1a14.png"/></a>
 </p>
