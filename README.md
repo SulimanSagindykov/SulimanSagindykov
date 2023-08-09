@@ -1,26 +1,19 @@
-
 <h1 align="center">
   <a href="https://github.com/SulimanSagindykov">
     <img src="https://user-images.githubusercontent.com/115887342/257194860-f91d6772-3531-4d22-8688-47cea9c29203.png" alt="Suliman Sagindykov" /></a>
 </h1>
 
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&duration=4000&pause=1000&color=8C52FF&center=true&width=435&lines=Hello+World!;I'm+an+aspiring+software+engineer;I've+got+a+lot+to+learn" alt="Typing SVG" /></a>
-
-  
 </p>
 
 
-
-
-
-<table style="border:none;margin:0 auto">
-  <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SulimanSagindykov&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true" alt="My Stats"/> </a></td>
-    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SulimanSagindykov&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
+<table align="center">
+  <tr>
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SulimanSagindykov&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8C52FF&bg_color=0000&hide_border=true" alt="My Stats"/> </a></td>
   </tr>
 </table>
-<br>
 
 
 <p align="center">
