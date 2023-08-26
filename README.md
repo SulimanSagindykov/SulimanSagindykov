@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/SulimanSagindykov">
-    <img src="https://user-images.githubusercontent.com/115887342/257194860-f91d6772-3531-4d22-8688-47cea9c29203.png" alt="Suliman Sagindykov" /></a>
+    <img src="https://user-images.githubusercontent.com/115887342/263457346-7eff7a63-88f3-4584-a4b3-baf806ef4b82.png" alt="Suliman Sagindykov" /></a>
 </h1>
 
 
